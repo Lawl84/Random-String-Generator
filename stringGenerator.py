@@ -8,4 +8,3 @@ def randomString(length:int, numberOfStrings= 1):
 
     return string
 #returns a list of the string(s)
-print(randomString(44))
